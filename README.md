@@ -31,4 +31,4 @@ The hypothesis functions for
 2) Multiple Variable:
      h(theta) = theta_0 + theta_1 * x_1 + theta_2 * x_2
      
-     We have not used any non-linear function here only liner function only.
+     We have not used any non-linear function here only linear function only.
