@@ -11,7 +11,7 @@ import gradient_descent
 import matplotlib.pyplot as plt
 
 def y_intercept(x_value):
-    return ((1.16636235*x_value)-3.63029144)
+    return ((1.16636235*x_value)-3.63029144) #This values of parameters we got after learning from the dataset
 
 object_for_data_set = get_learning_data.ReadTextDataSet()
 #****************************Single variable linear regression*******************
